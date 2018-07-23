@@ -8,11 +8,15 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
+<<<<<<< HEAD
+|1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)| [Python](Python/sort/sortIntegers.py)||
+=======
 |1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/BubbleSort.js)|冒泡排序|
 |2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js)|插入排序|
 |3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js)|选择排序|
 |4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js)|归并排序|
 ||**[排序算法总结](Note/sort.md)**||**[Summary](Note/sort.md)**|
+>>>>>>> ups/master
 
 ## Binary Search
 
