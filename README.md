@@ -2,6 +2,8 @@
 
 LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 
+Read algorithm articles online: https://kexin-li.github.io/LintCode
+
 ## Catalog
 
 - [Sort](#sort)
