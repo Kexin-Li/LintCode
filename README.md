@@ -32,7 +32,7 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[JavaScript](JavaScript/binarysearch/search.js), [Java](Java/binarysearch/ClassicalBinarySearch.java), [Python3](Python/binarysearch/BinarySearch.py)|  |
+|1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[JavaScript](JavaScript/binarysearch/search.js), [Java](Java/binarysearch/ClassicalBinarySearch.java), [Python3](Python/binarysearch/BinarySearch.py)|标准二分|
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[JavaScript](JavaScript/binarysearch/mountainSequence.js), [Java](Java/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](https://www.lintcode.com/problem/last-position-of-target/description)|[JavaScript](JavaScript/binarysearch/lastPosition.js), [Java](Java/binarysearch/LastPosition.java)| |
 |4|[First Position of Target](https://www.lintcode.com/problem/first-position-of-target/description)|[JavaScript](JavaScript/binarysearch/firstPosition.js)||

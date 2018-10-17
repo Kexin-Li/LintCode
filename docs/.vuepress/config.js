@@ -11,6 +11,7 @@ module.exports = {
     sidebar: [
       '/',
       '/sort/',
+      '/binarysearch/'
     ],
   }
 }
