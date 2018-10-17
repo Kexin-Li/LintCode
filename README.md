@@ -32,7 +32,7 @@ Read algorithm articles online: https://kexin-li.github.io/LintCode
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](Java/binarysearch/ClassicalBinarySearch.java), [Python3](Python/binarysearch/BinarySearch.py)|  |
+|1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[JavaScript](JavaScript/binarysearch/search.js), [Java](Java/binarysearch/ClassicalBinarySearch.java), [Python3](Python/binarysearch/BinarySearch.py)|  |
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java/binarysearch/LastPosition.java)| |
 |4|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[Java](Java/binarysearch/KClosestNumber.java)| |
