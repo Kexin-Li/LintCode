@@ -15,8 +15,5 @@ const mountainSequence = function (nums) {
       start = mid;
     }
   }
-  if (nums[start] > nums[end]) {
-    return nums[start];
-  }
-  return nums[end];
+  return nums[start] > nums[end] ? nums[start] : nums[end];
 }
