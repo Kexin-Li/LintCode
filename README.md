@@ -36,7 +36,7 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[JavaScript](JavaScript/binarysearch/mountainSequence.js), [Java](Java/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](https://www.lintcode.com/problem/last-position-of-target/description)|[JavaScript](JavaScript/binarysearch/lastPosition.js), [Java](Java/binarysearch/LastPosition.java)| |
 |4|[First Position of Target](https://www.lintcode.com/problem/first-position-of-target/description)|[JavaScript](JavaScript/binarysearch/firstPosition.js)||
-|5|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[Java](Java/binarysearch/KClosestNumber.java)| |
+|5|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[JavaScript](JavaScript/binarysearch/kClosestNumbers.js), [Java](Java/binarysearch/KClosestNumber.java)|二分法+双指针 💡|
 |6|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](Java/binarysearch/SearchBigSortedArray.java)|倍增法|
 |7|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[Java](Java/binarysearch/FindMin.java)||
 |8|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)|[Java](Java/binarysearch/FindPeak.java)||
