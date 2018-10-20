@@ -36,15 +36,16 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[JavaScript](JavaScript/binarysearch/mountainSequence.js), [Java](Java/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](https://www.lintcode.com/problem/last-position-of-target/description)|[JavaScript](JavaScript/binarysearch/lastPosition.js), [Java](Java/binarysearch/LastPosition.java)| |
 |4|[First Position of Target](https://www.lintcode.com/problem/first-position-of-target/description)|[JavaScript](JavaScript/binarysearch/firstPosition.js)||
-|5|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[JavaScript](JavaScript/binarysearch/kClosestNumbers.js), [Java](Java/binarysearch/KClosestNumber.java)|二分法+双指针 💡|
-|6|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[JavaScript](JavaScript/binarysearch/searchBigSortedArray.js), [Java](Java/binarysearch/SearchBigSortedArray.java)|倍增法|
-|7|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[JavaScript](JavaScript/binarysearch/findMin.js), [Java](Java/binarysearch/FindMin.java)|💡|
-|8|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)|[JavaScript](JavaScript/binarysearch/findPeakElement.js), [Java](Java/binarysearch/FindPeak.java)||
-|9|[First Bad Version](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Java](Java/binarysearch/FindFirstBadVersion.java)||
-|10|[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)|[JavaScript](JavaScript/binarysearch/searchInSortedArray.js), [Java](Java/binarysearch/Search.java)||
-|11|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
-|12|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)|快速幂算法|
-|13|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
+|5|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[JavaScript](JavaScript/binarysearch/searchRange.js)||
+|6|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[JavaScript](JavaScript/binarysearch/kClosestNumbers.js), [Java](Java/binarysearch/KClosestNumber.java)|二分法+双指针 💡|
+|7|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[JavaScript](JavaScript/binarysearch/searchBigSortedArray.js), [Java](Java/binarysearch/SearchBigSortedArray.java)|倍增法|
+|8|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[JavaScript](JavaScript/binarysearch/findMin.js), [Java](Java/binarysearch/FindMin.java)|💡|
+|9|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)|[JavaScript](JavaScript/binarysearch/findPeakElement.js), [Java](Java/binarysearch/FindPeak.java)||
+|10|[First Bad Version](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Java](Java/binarysearch/FindFirstBadVersion.java)||
+|11|[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)|[JavaScript](JavaScript/binarysearch/searchInSortedArray.js), [Java](Java/binarysearch/Search.java)||
+|12|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
+|13|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)|快速幂算法|
+|14|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
 ||**[二分法总结](Note/binarysearch.md)**||**[Summary](Note/binarysearch.md)**|
 
 ## Two Pointer
