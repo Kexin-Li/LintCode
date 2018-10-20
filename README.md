@@ -46,6 +46,9 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |12|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
 |13|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)|快速幂算法|
 |14|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
+|15|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)||TODO|
+|16|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)||TODO|
+|17|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)||TODO|
 ||**[二分法总结](Note/binarysearch.md)**||**[Summary](Note/binarysearch.md)**|
 
 ## Two Pointer
