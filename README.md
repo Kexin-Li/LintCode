@@ -4,7 +4,7 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 
 阅读更多算法文章: https://kexin-li.github.io/LintCode
 
-## Catalog
+## Table of Contents
 
 - [Sort](#sort)
 - [Binary Search](#binary-search)
