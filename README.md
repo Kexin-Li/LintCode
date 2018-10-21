@@ -55,8 +55,8 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[JavaScript](JavaScript/twopointer/twoSum.js), [Java](Java/twopointer/TwoSum.java), [Python3](Python/twopointer/TwoSum.py)||
-|2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](Java/twopointer/IsPalindrome.java)|HashMap|
+|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[JavaScript](JavaScript/twopointer/twoSum.js), [Java](Java/twopointer/TwoSum.java), [Python3](Python/twopointer/TwoSum.py)|HashMap|
+|2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[JavaScript](JavaScript/twopointer/isPalindrome.js), [Java](Java/twopointer/IsPalindrome.java)|标准双指针|
 |3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](Java/twopointer/IsPalindromeII.java)||
 |4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](Java/twopointer/Deduplication.java)||
 |5|[Window Sum](https://www.lintcode.com/problem/window-sum/description)|[Java](Java/twopointer/WinSum.java)||
