@@ -40,11 +40,11 @@ function partition(arr, left, right) {
 
   while (i <= j) {
     // 使得 i 指向大于 pivot 的第一位(left to right)
-    while (arr[i] < pivot) {
+    while (i <= j && arr[i] < pivot) {
       i++;
     }
     // 使得 j 指向小于 pivot 的第一位(right to left)
-    while (arr[j] > pivot) {
+    while (i <= j && arr[j] > pivot) {
       j--;
     }
     if(i <= j) {
