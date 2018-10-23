@@ -56,14 +56,14 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[JavaScript](JavaScript/twopointer/twoSum.js), [Java](Java/twopointer/TwoSum.java), [Python3](Python/twopointer/TwoSum.py)|HashMap|
-|2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[JavaScript](JavaScript/twopointer/isPalindrome.js), [Java](Java/twopointer/IsPalindrome.java)|标准双指针|
+|2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[JavaScript](JavaScript/twopointer/isPalindrome.js), [Java](Java/twopointer/IsPalindrome.java)|标准双指针 💡|
 |3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](Java/twopointer/IsPalindromeII.java)||
 |4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](Java/twopointer/Deduplication.java)||
 |5|[Window Sum](https://www.lintcode.com/problem/window-sum/description)|[Java](Java/twopointer/WinSum.java)||
 |6|[Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description)|[Java](Java/twopointer/TwoSum7.java)||
 |7|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/note)|[Java](Java/twopointer/HasCycle.java)||
-|8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/QuickSort.java)|快速排序|
-|9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/MergeSort.java)|归并排序|
+|8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[JavaScript](JavaScript/twopointer/quickSort.js), [Java](Java/twopointer/QuickSort.java)|快速排序|
+|9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[JavaScript](JavaScript/twopointer/mergeSort.js), [Java](Java/twopointer/MergeSort.java)|归并排序|
 |10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](Java/twopointer/QuickSelect.java)|Top K|
 |11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java), [Python3](Python/twopointer/SortColor.py)|三指针|
 |12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
