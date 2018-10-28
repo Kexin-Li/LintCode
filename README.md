@@ -65,8 +65,8 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[JavaScript](JavaScript/twopointer/quickSort.js), [Java](Java/twopointer/QuickSort.java)|快速排序|
 |9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[JavaScript](JavaScript/twopointer/mergeSort.js), [Java](Java/twopointer/MergeSort.java)|归并排序|
 |10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](Java/twopointer/QuickSelect.java)|Top K|
-|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java), [Python3](Python/twopointer/SortColor.py)|三指针|
-|12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
+|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[JavaScript](JavaScript/twopointer/sortColors.js), [Java](Java/twopointer/SortColor.java), [Python3](Python/twopointer/SortColor.py)|三指针 💡|
+|12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[JavaScript](JavaScript/twopointer/moveZeros.js), [Java](Java/twopointer/MoveZeros.java)||
 |13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
 ||**[双指针算法总结](Note/two-pointer.md)**||**[Summary](Note/two-pointer.md)**|
