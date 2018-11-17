@@ -71,6 +71,29 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
 ||**[双指针算法总结](Note/two-pointer.md)**||**[Summary](Note/two-pointer.md)**|
 
+## Linked List
+
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js), [Python3](Python/linkedlist/DeleteNode.py)||
+|2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js), [Python3](Python/linkedlist/ReverseList.py)||
+|3|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [Python3](Python/linkedlist/reverseBetween.py)||
+|4|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js), [Python3](Python/linkedlist/HasCycle.py)||
+|5|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[JavaScript](JavaScript/linkedlist/MergeList.js), [Python3](Python/linkedlist/MergeList.py)||
+|6|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[JavaScript](JavaScript/linkedlist/DeleteDuplicates.js), [Python3](Python/linkedlist/DeleteDuplicates.py)||
+|7|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Python3](Python/linkedlist/getIntersectionNode.py)||
+|8|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)| [JavaScript](JavaScript/linkedlist/RemoveNodes.js), [Python3](Python/linkedlist/removeElements.py)||
+|9|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)| [Python3](Python/linkedlist/isPalindrome.py)||
+|10|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1)| [Python3](Python/linkedlist/middleNode.py)||
+|11|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| [Python3](Python/linkedlist/MyLinkedList.py)||
+|12|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [Python3](Python/linkedlist/addTwoNumbers.py)||
+|13|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)| [Python3](Python/linkedlist/addTwoNumbersII.py)||
+|14|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)| [Python3](Python/linkedlist/splitListToParts.py)||
+|15|[Rotate List](https://leetcode.com/problems/rotate-list/description/)| [Python3](Python/linkedlist/rotateRight.py)||
+|16|[Reorder List](https://leetcode.com/problems/reorder-list/description/)| [Python3](Python/linkedlist/reorderList.py)||
+|17|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [Python3](Python/linkedlist/removeNthFromEnd.py)||
+||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
+
 ## BFS
 
 | #   |  Problem  |  Solution  |  Keywords  |
@@ -134,29 +157,6 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |32|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[JavaScript](JavaScript/array/searchMatrix.js), [Python3](Python/array/searchMatrix.py)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
-## Linked List
-
-| #   |  Problem  |  Solution  |  Keywords  |
-| --- | --------- | :--------: | :--------: |
-|1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js), [Python3](Python/linkedlist/DeleteNode.py)||
-|2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js), [Python3](Python/linkedlist/ReverseList.py)||
-|3|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [Python3](Python/linkedlist/reverseBetween.py)||
-|4|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js), [Python3](Python/linkedlist/HasCycle.py)||
-|5|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[JavaScript](JavaScript/linkedlist/MergeList.js), [Python3](Python/linkedlist/MergeList.py)||
-|6|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[JavaScript](JavaScript/linkedlist/DeleteDuplicates.js), [Python3](Python/linkedlist/DeleteDuplicates.py)||
-|7|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Python3](Python/linkedlist/getIntersectionNode.py)||
-|8|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)| [JavaScript](JavaScript/linkedlist/RemoveNodes.js), [Python3](Python/linkedlist/removeElements.py)||
-|9|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)| [Python3](Python/linkedlist/isPalindrome.py)||
-|10|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1)| [Python3](Python/linkedlist/middleNode.py)||
-|11|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| [Python3](Python/linkedlist/MyLinkedList.py)||
-|12|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [Python3](Python/linkedlist/addTwoNumbers.py)||
-|13|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)| [Python3](Python/linkedlist/addTwoNumbersII.py)||
-|14|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)| [Python3](Python/linkedlist/splitListToParts.py)||
-|15|[Rotate List](https://leetcode.com/problems/rotate-list/description/)| [Python3](Python/linkedlist/rotateRight.py)||
-|16|[Reorder List](https://leetcode.com/problems/reorder-list/description/)| [Python3](Python/linkedlist/reorderList.py)||
-|17|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [Python3](Python/linkedlist/removeNthFromEnd.py)||
-||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
-
 ## String
 
 | #   |  Problem  |  Solution  |  Keywords  |
@@ -197,7 +197,7 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[JavaScript](JavaScript/binarytree/mergeTrees.js)||
-|2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python3](Python/binarytree/preorderTraversal.py)||
+|2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [JavaScript](JavaScript/binarytree/preorderTraversal.js), [Python3](Python/binarytree/preorderTraversal.py)||
 |3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python3](Python/binarytree/inorderTraversal.py)||
 |4|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python3](Python/binarytree/postorderTraversal.py)||
 |5|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python3](Python/binarytree/buildTree.py)||
