@@ -11,11 +11,15 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: '排序算法', link: '/sort/' },
       { text: '二分法', link: '/binarysearch/' },
+      { text: '双指针', link: '/twopointer/' },
+      { text: '二叉树', link: '/binarytree/' }
     ],
     sidebar: [
       '/',
       '/sort/',
-      '/binarysearch/'
+      '/binarysearch/',
+      '/twopointer/',
+      '/binarytree/'
     ],
     lastUpdated: '最后更新时间',
     serviceWorker: {
