@@ -198,7 +198,7 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 | --- | --------- | :--------: | :--------: |
 |1|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[JavaScript](JavaScript/binarytree/mergeTrees.js)||
 |2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [JavaScript](JavaScript/binarytree/preorderTraversal.js), [Python3](Python/binarytree/preorderTraversal.py)|Itertive: stack + array|
-|3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python3](Python/binarytree/inorderTraversal.py)|Itertive: stack + array|
+|3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [JavaScript](JavaScript/binarytree/inorderTraversal.js), [Python3](Python/binarytree/inorderTraversal.py)|Itertive: stack + array|
 |4|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python3](Python/binarytree/postorderTraversal.py)||
 |5|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python3](Python/binarytree/buildTree.py)||
 |6|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python3](Python/binarytree/levelOrder.py)||
