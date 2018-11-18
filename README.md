@@ -197,8 +197,8 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[JavaScript](JavaScript/binarytree/mergeTrees.js)||
-|2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [JavaScript](JavaScript/binarytree/preorderTraversal.js), [Python3](Python/binarytree/preorderTraversal.py)|Itertive: stack + array|
-|3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [JavaScript](JavaScript/binarytree/inorderTraversal.js), [Python3](Python/binarytree/inorderTraversal.py)|Itertive: stack + array|
+|2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [JavaScript](JavaScript/binarytree/preorderTraversal.js), [Python3](Python/binarytree/preorderTraversal.py)|迭代: stack + array|
+|3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [JavaScript](JavaScript/binarytree/inorderTraversal.js), [Python3](Python/binarytree/inorderTraversal.py)|迭代: stack + array|
 |4|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python3](Python/binarytree/postorderTraversal.py)||
 |5|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python3](Python/binarytree/buildTree.py)||
 |6|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python3](Python/binarytree/levelOrder.py)||
@@ -206,4 +206,5 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |8|[Binary Tree Zigzag Level order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python3](Python/binarytree/zigzagLevelOrder.py)||
 |9|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python3](Python/binarytree/maxDepth.py)||
 |10|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)| [Python3](Python/binarytree/isBalanced.py)||
+|11|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](JavaScript/binarytree/searchBST.js)|尾递归|
 ||[Binary Tree 总结](Note/binarytree/binarytree.md)||[Summary](Note/binarytree/binarytree.md)|
