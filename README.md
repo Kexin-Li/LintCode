@@ -201,7 +201,7 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [JavaScript](JavaScript/binarytree/inorderTraversal.js), [Python3](Python/binarytree/inorderTraversal.py)|迭代: stack + array|
 |4|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python3](Python/binarytree/postorderTraversal.py)||
 |5|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JavaScript](JavaScript/binarytree/buildTree.js), [Python3](Python/binarytree/buildTree.py)||
-|6|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python3](Python/binarytree/levelOrder.py)||
+|6|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](JavaScript/binarytree/levelTraversal.js), [Python3](Python/binarytree/levelOrder.py)||
 |7|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)| [Python3](Python/binarytree/levelOrderBottom.py)||
 |8|[Binary Tree Zigzag Level order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python3](Python/binarytree/zigzagLevelOrder.py)||
 |9|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python3](Python/binarytree/maxDepth.py)||
